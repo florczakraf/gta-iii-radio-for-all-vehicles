@@ -9,7 +9,7 @@ Place the `gta-iii-radio-for-all-vehicles.asi` file inside `mss` directory in yo
 
 ## Supported Versions
 
-This code has been tested with the following English versions of the game: 1.0, 1.1, 1.1 Steam.
+This code has been tested with the following English versions of the game: 1.0, 1.1, 1.1 Steam, 1.1 Rockstar Games Launcher.
 
 ## Thanks
 
