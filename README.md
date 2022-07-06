@@ -17,4 +17,4 @@ Thanks to ThirteenAG for the basic idea for the plugin (https://www.gtagarage.co
 His version also allowed all vehicles to use Pay 'n' Spray which changes the gameplay.
 It also lacked the support for Steam version of the game.
 
-Also huge thanks to aquaz, halamix2 and pitpo for the support during the reversing & debugging session.
+Also huge thanks to aquaz, halamix2 and pitpo for the support during the reversing & debugging session. I described the whole journey in [a blog post](https://blog.andr.host/posts/2022/05/26-iii-radio/).
